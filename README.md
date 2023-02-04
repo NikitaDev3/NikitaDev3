@@ -32,5 +32,5 @@ I describe myself as a passionate developer who loves coding, open source, and t
 ### Socials
 
 <p align="left"> 
-  <a href="www.linkedin.com/in/nikita-syromiatnikov" target="_blank" rel="noreferrer"><img src="./assets/lnkd.svg" width="36" height="36" alt="Linkedin" /></a>
+  <a href="https://www.linkedin.com/in/nikita-syromiatnikov" target="_blank" rel="noreferrer"><img src="./assets/lnkd.svg" width="36" height="36" alt="Linkedin" /></a>
 </p>
