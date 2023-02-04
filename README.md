@@ -5,7 +5,6 @@
 I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️
 
 - 🌍 I'm based in Ukraine
-<!-- - 🖥️  See my portfolio at [www.aliev.tech](http://aliev.tech) -->
 - ✉️ You can contact me at [nikita.syromiatnikov.r@gmail.com](nikita.syromiatnikov.r@gmail.com)
 - 🤝 I'm open to collaborating on project work or partnerships
 
